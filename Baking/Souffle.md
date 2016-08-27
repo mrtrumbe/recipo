@@ -1,7 +1,5 @@
 # Souffle
 
-![Chicken Souffle.](/img/food/finished_chicken_souffle.JPG)
-
 
 Souffles are all about structure. The ingredient list looks like the start of a classic omelette.
 But if you separate eggs, treat their parts with care, and reassemble them into a careful matrix
