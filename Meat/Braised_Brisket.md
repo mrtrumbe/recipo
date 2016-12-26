@@ -67,9 +67,9 @@ thyme, peppercorns, cloves, lime peel, szechuan peppercorns, juniper berries,
 and tomato paste. Fry and stir until fragrant, about 1-2 minutes. Add the tomato 
 sauce and stir and fry until most of the liquid is gone, about 3-5 minutes. Add 
 the white wine and scrape the pan, getting any bits unstuck from the bottom and 
-sides of the pan. Add the chicken stock and soy sauce and stir thoroughly, then 
-bring the mixture back to a vigorous simmer. Shut off the heat and add vanilla 
-extract and lime juice.
+sides of the pan. Add the chicken stock, remaining kosher salt, and soy sauce 
+and stir thoroughly, then bring the mixture back to a vigorous simmer. Shut off 
+the heat and add vanilla extract and lime juice.
 
 Add the brisket back to the pan (or move the brisket and liquid to a new pan), 
 cover the pan, then put the pan in the 300˚F oven. Let the brisket braise for
