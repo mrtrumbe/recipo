@@ -60,22 +60,23 @@ fat side down. Allow the brisket to sear, pushing down to ensure it is making
 contact with the pan if necessary. When the fat side is a deep, dark brown, flip 
 the brisket. Again sear until a deep brown. Remove the brisket and set aside.
 
-Turn the heat down to medium-high. Add the additional vegetable oil, the chopped 
-onion, and 1/2 tsp of the kosher salt. Fry the onions until brown and translucent.
-Add the garlic, bay leaf, thyme, peppercorns, cloves, lime peel, szechuan
-peppercorns, juniper berries, and tomato paste. Fry and stir until fragrant, about
-1-2 minutes. Add the tomato sauce and stir and fry until most of the liquid is
-gone, about 3-5 minutes. Add the white wine and scrape the pan, getting any bits 
-unstuck from the bottom and sides of the pan. Add the chicken stock and soy sauce
-and stir thoroughly, then bring the mixture back to a vigorous simmer. Shut off 
-the heat and add vanilla extract and lime juice.
+Turn the heat down to medium or medium-high (depending on how hot your stove is). 
+Add the additional vegetable oil, the chopped onion, and 1/2 tsp of the kosher 
+salt. Fry the onions until brown and translucent. Add the garlic, bay leaf, 
+thyme, peppercorns, cloves, lime peel, szechuan peppercorns, juniper berries, 
+and tomato paste. Fry and stir until fragrant, about 1-2 minutes. Add the tomato 
+sauce and stir and fry until most of the liquid is gone, about 3-5 minutes. Add 
+the white wine and scrape the pan, getting any bits unstuck from the bottom and 
+sides of the pan. Add the chicken stock and soy sauce and stir thoroughly, then 
+bring the mixture back to a vigorous simmer. Shut off the heat and add vanilla 
+extract and lime juice.
 
 Add the brisket back to the pan (or move the brisket and liquid to a new pan), 
 cover the pan, then put the pan in the 300˚F oven. Let the brisket braise for
-about 40 minutes per pound of meat. You can also set the over a bit higher and
-the brisket will be done faster. I've tried up to 325˚F with good results. When 
-the brisket is fork tender, remove the brisket from the braising pan and
-wrap in 2 layers of foil. Let rest 30 minutes to an hour. 
+about 40 minutes per pound of meat. You can also set the oven temperature a bit 
+higher and the brisket will be done faster. I've tried up to 325˚F with good 
+results. When the brisket is fork tender, remove the brisket from the braising 
+pan and wrap in 2 layers of foil. Let rest 30 minutes to an hour. 
 
 While the brisket is resting, put the remaining liquids and solids through a fine 
 metal sieve, pushing through as much onion and garlic as possible. Put the sieved 
