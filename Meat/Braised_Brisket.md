@@ -85,10 +85,10 @@ isn't thick enough for your liking, thicken with a small amount of roux or a
 water and corn starch slurry. The sauce shouldn't be as thick as a gravy, but
 just thick enough to stick to the meat a bit.
 
-Slice the brisket against the grain (the brisket will be impossibly tough and dry
-if you slice it with the grain and have long strands of meat) with a very sharp 
-knife, making slices about 1/8" to 1/4" thick. Put in a deep-sided serving dish,
-then pour about 1/2 of the sauce, piping hot, over the brisket. Keep the dish 
-warm until ready to serve. Serve with the sauce.
+Slice the brisket against the grain with a very sharp knife, making slices about 
+1/8" to 1/4" thick. **The brisket will be impossibly tough and dry if you slice it 
+with the grain and have long strands of meat.** Put the sliced brisket in a 
+deep-sided serving dish, then pour about 1/2 of the sauce, piping hot, over 
+the top. Keep the dish warm until ready to serve. Serve with the sauce.
 
 
