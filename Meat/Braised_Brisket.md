@@ -16,9 +16,14 @@ comes time to move to the oven.
 
 ## Ingredients
 
+For brisket prep:
+
 * 1 beef brisket flat, 4-6 pounds
 * Kosher salt (see recipe for quantity)
 * 2 tsp vegetable oil
+
+
+For sauce:
 
 * 2 tbsp vegetable oil
 * 2 large yellow onions, chopped
