@@ -41,6 +41,7 @@ For sauce:
 * 1/2 cup white wine
 * 2 cups chicken stock
 * 1 tbsp soy sauce
+* 3 tbsp dark brown sugar
 * 1/2 tsp vanilla extract
 * 1 1/2 tsp lime juice
 
@@ -67,9 +68,9 @@ thyme, peppercorns, cloves, lime peel, szechuan peppercorns, juniper berries,
 and tomato paste. Fry and stir until fragrant, about 1-2 minutes. Add the tomato 
 sauce and stir and fry until most of the liquid is gone, about 3-5 minutes. Add 
 the white wine and scrape the pan, getting any bits unstuck from the bottom and 
-sides of the pan. Add the chicken stock, remaining kosher salt, and soy sauce 
-and stir thoroughly, then bring the mixture back to a vigorous simmer. Shut off 
-the heat and stir in the vanilla extract and lime juice.
+sides of the pan. Add the chicken stock, remaining kosher salt, soy sauce, and  
+brown sugar and stir thoroughly, then bring the mixture back to a vigorous simmer. 
+Shut off the heat and stir in the vanilla extract and lime juice.
 
 Add the brisket back to the pan (or move the brisket and liquid to a new pan), 
 cover the pan, then put the pan in the 300˚F oven. Let the brisket braise for
@@ -83,7 +84,8 @@ metal sieve, pushing through as much onion and garlic as possible. Put the sieve
 liquid into a sauce pan over low-medium heat until simmering gently. If the sauce 
 isn't thick enough for your liking, thicken with a small amount of roux or a 
 water and corn starch slurry. The sauce shouldn't be as thick as a gravy, but
-just thick enough to stick to the meat a bit.
+just thick enough to stick to the meat a bit. Season with salt, fresh ground 
+pepper, dark brown sugar, and balsamic vinegar.
 
 Slice the brisket against the grain with a very sharp knife, making slices about 
 1/8" to 1/4" thick. **The brisket will be impossibly tough and dry if you slice it 
