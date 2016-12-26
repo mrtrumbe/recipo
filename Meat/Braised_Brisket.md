@@ -36,13 +36,13 @@ For sauce:
 * lime peel (about 2 square inches)
 * 5 szechuan peppercorns (optional)
 * 5 juniper berries (optional)
-* 1/2 tbsp tomato paste
+* 1 1/2 tsp tomato paste
 * 1 can tomato sauce, 8 oz.
 * 1/2 cup white wine
 * 2 cups chicken stock
 * 1 tbsp soy sauce
 * 1/2 tsp vanilla extract
-* 1/2 tbsp lime juice
+* 1 1/2 tsp lime juice
 
 ## Instructions
 
