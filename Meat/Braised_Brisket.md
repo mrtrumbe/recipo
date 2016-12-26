@@ -41,8 +41,8 @@ For sauce:
 * 1/2 cup white wine
 * 2 cups chicken stock
 * 1 tbsp soy sauce
-* 1 tsp vanilla extract
-* 1 tbsp lime juice
+* 1/2 tsp vanilla extract
+* 1/2 tbsp lime juice
 
 ## Instructions
 
