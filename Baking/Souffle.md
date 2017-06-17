@@ -1,17 +1,6 @@
 # Souffle
 
 
-Souffles are all about structure. The ingredient list looks like the start of a classic omelette.
-But if you separate eggs, treat their parts with care, and reassemble them into a careful matrix
-of air bubbles and protein, the results are magic. A souffle is light and fluffy, but surprisingly
-rich and filling.
-
-Like an omelette, a souffle is incredibly versatile. The air bubble and protein structure is
-a blank slate on which you can put a wide range of flavors. From savory to sweet, a souffle can
-support almost any flavor profile, so long as you prepare the flavoring carefully.
-
-
-
 ## The Souffle Framework
 
 No matter what kind of souffle you are making, the procedure is exactly the same:
@@ -55,24 +44,6 @@ you pull the whisk from the egg white mixture and turn it over, the peak stays f
 get close to the right point, check the mixture for doneness often and stop as soon as you reach
 the stiff peak phase. Over-whipped whites will start to leak moisture and aren't as stable as
 properly whipped whites.
-
-
-
-## The Souffle Dish
-
-You should cook the souffle in a souffle dish, which is often just called a
-"souffle", I assume for maximum confusion. You cook a souffle in a souffle? OK then...
-
-Getting past the confusing name, this dish is shaped perfectly to help a souffle rise when
-baking. It's straight vertical sides and lip help the souffle go straight up. If all goes
-well, the final product will shoot right out of the top of the dish to staggering heights.
-
-How you fill the souffle is also important. If you overfill the souffle, the souffle won't
-rise straight up. The chicken souffle pictured in this blog post is a good example of this.
-I had more souffle batter than room in my souffles and overfilled them to avoid waste. The
-end result was an explosion out of the top of the dish, rather than the controlled, vertical
-rise more typical of the perfect souffle. The souffle fluffed up and tasted fine, but
-if you are going for perfection, fill to under the lip of the souffle.
 
 
 
