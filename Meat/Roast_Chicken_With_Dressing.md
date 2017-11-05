@@ -83,7 +83,7 @@ Follow either the Traditional Stuffing instructions _or_ the Bread Salad
 instructions next.
 
 
-*For the Traditional Stuffing:*
+**For the Traditional Stuffing:**
 
 Clean the mushrooms, remove their stems, and roughly chop. In a frying pan 
 over high heat, brown the mushrooms with some oil and a pinch of salt and 
@@ -108,7 +108,7 @@ color. Pour egg yolks over wet bread mixture and immediately start folding
 to mix in before it cooks.
 
 
-*For the Bread Salad:*
+**For the Bread Salad:**
 
 Put the butter, EVOO, shallots, and sprigs of herbs in a frying pan and cook 
 over low heat until shallots are translucent. Add garlic and cook for a minute
@@ -148,9 +148,9 @@ baking sheet. Remove foil and broil the chicken until the skin is crispy and
 nicely browned. Be careful not to over broil!
 
 
-*For Traditional Dressing*: Just serve!
+**For Traditional Dressing**: Just serve!
 
-*For Bread Salad:*
+**For Bread Salad:**
 
 Put frisee in a very large bowl. Break up cooked bread mixture and spoon it 
 over the frisee. Gently fold the mixture so that frisee slightly wilts. Add pine 
