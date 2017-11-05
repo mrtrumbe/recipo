@@ -103,9 +103,10 @@ liquid or left over chicken stock if you run out. The bread mixture should be
 totally soaked with just a bit of liquid that won't soak into the bread left in 
 the bottom of the bowl. 
 
-In a separate bowl, whip egg yolks and sugar until significantly lightened in 
-color. Pour egg yolks over wet bread mixture and immediately start folding 
-to mix in before it cooks.
+In a separate bowl, whisk egg yolks and sugar until significantly lightened in 
+color. Add 1/4 cup of reduced stock liquid (or plain chicken stock if you've run 
+out) and whisk until combined. Pour egg mixture over wet bread mixture and 
+immediately start folding to combine before it cooks on the hot bread mixture.
 
 
 **For the Bread Salad:**
