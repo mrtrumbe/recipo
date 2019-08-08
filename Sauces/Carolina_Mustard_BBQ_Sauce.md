@@ -17,5 +17,5 @@
 
 ## Instructions
 
-Add everything except the butter to a large bowl and whisk until well
+Add everything to a large bowl and whisk until well
 combined. Put into a container or bottle and chill before serving.
