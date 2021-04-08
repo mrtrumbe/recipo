@@ -1,4 +1,4 @@
-Fast Birrio Tacos
+Fast Birria Tacos
 -----------------
 
 Not authentic, but quick and tasty. Makes about 4 tacos.
