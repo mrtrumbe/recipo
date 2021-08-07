@@ -88,13 +88,15 @@ If you are making a sauce with your pickled veg (like a hot sauce from pickled p
 Thoroughly rinse and scrub your vegetables and trim any leaves, roots, or bad spots from them. Cut them into bit sized chunks. Thoroughly rinse any 
 herbs and leaves. Prepare your aromatics and spices. Clean two large mason jars with screw on lids.
 
-Add your vegetable chunks a layer at a time, then add some of the herbs, leaves, aromatics, and spices. Repeat until your jar is 3/4 full.
+Add your vegetable chunks a layer at a time, then add some of the herbs, leaves, aromatics, and spices. Repeat until your jar is 3/4 full. Careful not to 
+overfill the jar as it'll overflow when the fermentation gets going. 
 
 Add a weight to the top, then pour your brine over until the vegetable mixture is completely submerged. Screw on the top.
 
-Put the jar in a place that doesn't get too hot or cold and out of direct sunlight. Pickle for 1 to 2 weeks (or even more) to the desired level of acidity. 
-The longer you go, the more tart they will get. Be sure to "burp" the jar every day to ensure it doesn't blow up. The fermentation process produces gas
-and it will build up over time. Just open the lid a little bit to let some of the gas out every day.
+Put the jar in a place that doesn't get too hot or cold and out of direct sunlight. I like to put the jar on a towel, just in case there is overflow. 
+Pickle for 1 to 2 weeks (or even more) to the desired level of acidity. The longer you go, the more tart they will get. Be sure to "burp" the jar every 
+day to ensure it doesn't blow up. The fermentation process produces gas and it will build up over time. Just open the lid a little bit to let some of the 
+gas out every day.
 
 
 ## How do I know if they are good to eat?
