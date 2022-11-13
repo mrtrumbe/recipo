@@ -1,16 +1,15 @@
-Turkey Stock
-------------
+# Turkey Stock
 
-* 4 lbs turkey wings
-* 2 onions, roughly chopped
-* 4 carrots, roughly chopped
-* 4 celery ribs, roughly chopped
-* 8 cloves of garlic, crushed
-* 1 bunch of thyme
-* 1 bunch of sage
-* 1 bunch of thyme
-* 10 whole peppercorns
-* 1 bay leaf
+- 4 lbs turkey wings
+- 2 onions, roughly chopped
+- 4 carrots, roughly chopped
+- 4 celery ribs, roughly chopped
+- 8 cloves of garlic, crushed
+- 1 bunch of thyme
+- 1 bunch of sage
+- 1 bunch of thyme
+- 10 whole peppercorns
+- 1 bay leaf
 
 Preheat the oven to 400° F.
 
