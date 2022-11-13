@@ -12,6 +12,8 @@
 - 1 egg
 - Up to 1 quart of low sodium chicken or turkey stock \*
 
+-----
+
 *Note on bread: the texture of the bread will make a big difference in the final texture of the stuffing.*
 *If you use a very chewy bread, your stuffing will end up more tough. If you use a very pillowy bread with*
 *a very open crumb and lots of air bubbles, your stuffing will be very light and may even fall apart. I go*
@@ -25,6 +27,8 @@
 *Note on stock: if using store bought stock, heat up some of the stock in a saucepan and add 1 packet of*
 *unflavored gelatin to it, stirring until dissolved. Then add the stock and gelatin mixture back to the*
 *rest of the stock.*
+
+-----
 
 Put the bread cubes on a large sheet pan or two and place into a 250° F oven for about an hour. The bread 
 should completely dry out, but not brown. Remove from the oven and let cool.
