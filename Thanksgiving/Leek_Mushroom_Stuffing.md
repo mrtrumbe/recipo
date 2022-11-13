@@ -22,8 +22,8 @@
 *you cut the mushroom into pieces that are just a bit smaller than the bread pieces, so if you use a large*
 *mushroom, you need to cut it into smaller pieces.*
 
-*Note on stock: if using store bought stock, heat up some of the stock in a saucepan and add 1 packet of *
-*unflavored gelatin to it, stirring until dissolved. Then add the stock and gelatin mixture back to the *
+*Note on stock: if using store bought stock, heat up some of the stock in a saucepan and add 1 packet of*
+*unflavored gelatin to it, stirring until dissolved. Then add the stock and gelatin mixture back to the*
 *rest of the stock.*
 
 Put the bread cubes on a large sheet pan or two and place into a 250° F oven for about an hour. The bread 
