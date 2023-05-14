@@ -28,9 +28,9 @@ from heat and let rest for another 15 minutes. Season to taste with salt and pep
 
 To scale the recipe, add additional ingredients in the following proportion:
 
-1 Cup Rice
-1 Cup Stock
-1 Tbsp butter
-1/4 Tsp Turmeric
-1/4 Tsp Cumin
-1/4 Tsp Halal Cart Spice Mix
+* 1 Cup Rice
+* 1 Cup Stock
+* 1 Tbsp butter
+* 1/4 Tsp Turmeric
+* 1/4 Tsp Cumin
+* 1/4 Tsp Halal Cart Spice Mix
