@@ -4,7 +4,7 @@
 
 * 2 Tbsp unsalted butter
 * 1/2 Tsp Turmeric
-* 1/2 Tsp Cumin
+* 1/4 Tsp Cumin
 * 1/4 Tsp of [Halal Cart Spice Mix](../Rubs_and_Marinades/Halal_Cart_Spice_Mix.md)
 * 1 1/2 Cups Basmati Rice
 * 2 1/2 Cups Low Sodium Chicken Stock
