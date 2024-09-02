@@ -48,8 +48,9 @@ Chill mixture in the fridge until completely cold, at least 3 hours.
 
 * 24 medium-sized high fiber tortillas, [like these](https://www.missionfoods.com/products/carb-balance-soft-taco-flour-tortillas/)
 
-Mix the chilled chicken and sauce together in a large bowl. If necessary, further chill to let the mixture set up and 
-make it easier to work with.
+In a large bowl, mix the chilled chicken and 2/3rds of the sauce. Add more sauce as necessary. You want enough sauce to thoroughly 
+coat the chicken, then some extra sauce. It shouldn't have as much sauce as a traditional curry, but it shouldn't be dry, either. 
+If necessary, further chill to let the mixture set up and make it easier to work with.
 
 Once cool, place 3oz of the chicken mixture on a tortilla then wrap it into a burrito shape. Repeat with the remaining 
 mixture and tortillas. Put completed wraps on a parchment lined sheet tray and freeze them completely. Move to plastic 
