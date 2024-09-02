@@ -5,7 +5,7 @@
 * 3 pounds boneless, skinless chicken breasts
 
 Season with salt, pepper, chili powder, garlic powder, onion powder, and optionally some garam masala. 
-Let sit for 30 minute to absorb the salt. Add 1 tbsp of vegetable and mix to coat. Cook through on a grill 
+Let sit for 30 minute to absorb the salt. Add 1 tbsp of vegetable oil and mix to coat. Cook through on a grill 
 or under a broiler. Let cool until you are able to handle it with your hands. Cut into 1/2” cubes and put into 
 the fridge to chill completely through, at least 3 hours.
 
