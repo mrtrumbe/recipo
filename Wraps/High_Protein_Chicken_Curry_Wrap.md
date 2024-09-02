@@ -46,7 +46,7 @@ Chill mixture in the fridge until completely cold, at least 3 hours.
 
 ## Assembly
 
-* 24 medium-sized high fiber tortillas, like these
+* 24 medium-sized high fiber tortillas, [like these](https://www.missionfoods.com/products/carb-balance-soft-taco-flour-tortillas/)
 
 Mix the chilled chicken and sauce together in a large bowl. If necessary, further chill to let the mixture set up and 
 make it easier to work with.
