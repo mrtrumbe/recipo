@@ -4,11 +4,12 @@
 ## Sauce
 
 * 2 cups 2% cottage cheese
-* 6 tbsp Louisiana-style hot sauce
+* 6-9 tbsp Louisiana-style hot sauce (adjust according to how spicy you like it)
 * 1 tsp chili powder
+* 1 tsp paprika
 * 1 tbsp garlic powder, rehydrated with a little water
 * 1 tsp kosher salt
-* 2 cloves garlic
+* 1-3 cloves garlic (adjust according to how garlic spicy you like it)
 * 1 tbsp brown sugar
 * 1/2 tsp black pepper
 
