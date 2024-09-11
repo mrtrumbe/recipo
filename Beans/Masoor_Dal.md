@@ -10,12 +10,16 @@
 * 3 cups water
 * pinch baking soda
 
-### Tempered Spices
+### Whole Spices
 * 2 Tbsp oil or ghee
 * 2 cloves garlic
 * 2 whole red chili
 * 1/2 tsp brown mustard seeds
 * 1 tsp cumin seeds
+* 1/2 tsp garam masala
+* 1/2 tsp turmeric
+
+### Tempered Spices
 * 1/2 tsp garam masala
 * 1/2 tsp turmeric
 
