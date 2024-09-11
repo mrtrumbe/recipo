@@ -19,7 +19,7 @@
 
 ### Tempered Spices
 * 1/2 tsp garam masala
-* 1/2 tsp turmeric
+* 1 tsp turmeric
 
 ### Last Minute Spices
 * 1/2 tsp methi powder (or 1/2 tsp leaves, optional)
