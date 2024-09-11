@@ -16,8 +16,6 @@
 * 2 whole red chili
 * 1/2 tsp brown mustard seeds
 * 1 tsp cumin seeds
-* 1/2 tsp garam masala
-* 1/2 tsp turmeric
 
 ### Tempered Spices
 * 1/2 tsp garam masala
