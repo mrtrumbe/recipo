@@ -22,8 +22,8 @@
 * 1 tsp turmeric
 
 ### Last Minute Spices
-* 1/2 tsp methi powder (or 1/2 tsp leaves, optional)
-* 1/2 tsp chili powder
+* 1/2 tsp methi powder (or 1 tsp leaves, optional)
+* 1 tsp chili powder
 
 ### Serving Ingredients
 * Scallions (optional)
