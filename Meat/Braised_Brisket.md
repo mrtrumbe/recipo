@@ -24,22 +24,24 @@ For brisket prep:
 For sauce:
 
 * 2 tbsp vegetable oil
-* 2 large yellow onions, chopped
+* 3 large yellow onions, chopped
 * 1 tsp kosher salt
+* 1/4 tsp baking soda
 * 5 cloves garlic, crushed
 * 2 bay leaves broken into pieces
 * 1/2 tsp dried thyme leaves
 * 1/2 tsp dried rosemary leaves
 * 10 black peppercorns
-* 5 whole cloves
+* 8 whole cloves
 * lime peel (about 1" by 2")
 * 1/2 tsp paprika
 * 5 juniper berries (optional)
-* 2 tsp tomato paste
+* 2 tbsp tomato paste
 * 1 cup white wine
 * 1 cup chicken stock or water
 * 1 tbsp soy sauce
 * 2 tbsp dark brown sugar
+* 1 package unflavored geletin sprinkled over 1/4 cup of cold water
 * 1/2 tsp vanilla extract
 * 1 tbsp lime juice
 
@@ -60,25 +62,26 @@ sit in the fridge.
 The braising liquid can also be prepped up to two days in advance.
 
 The first step is to "brown fry" your onions. Put a saucepan over medium high 
-heat, add 2 tbsp of oil, then add the chopped onion and 1 tsp of salt. Fry the 
-onion, stirring occasionally, until they turn brown and come close to burning. 
-Add 1/2 a cup of water (preferably heated) and then stir vigorously to loosen
-any brown bits from the pan. Continue cooking until the liquid boils off and
-the onions begin to fry again. Continue to fry them until they again are close
-to burning, then add 1/2 cup of water and repeat the process. Do this procedure 
-2-4 times to turn the onions a deep, dark brown. You are aiming for the mixture 
-to be a little lighter than the color of french onion soup.
+heat, add 2 tbsp of oil, then add the chopped onion, 1 tsp of salt, and 
+1/4 tsp baking soda. Fry the onion, stirring occasionally, until they start 
+forming deep brown spots. Before the onions start to burn, add 1/2 a cup of water 
+(preferably heated) and stir vigorously to loosen any brown bits from the pan. 
+Continue cooking until the liquid boils off and the onions begin to fry again. 
+Continue to fry them until they start to form new deep brown spots, then add 
+1/2 cup of water and repeat the process. Do this procedure 2-4 times to turn
+the onions a deep, dark brown. You are aiming for the mixture to be a little 
+lighter than the color of french onion soup.
 
 After you get the onions to the desired color, again add 1/2 cup of water and 
 cook the liquid down until the onions just start frying. Then turn the heat down 
 to medium and immediately add the garlic cloves, bay leaves, thyme leaves, 
 rosemary leaves, black peppercorns, cloves, lime peel, paprika and juniper 
 berries. Stir and fry until fragrant, 1-2 minutes. Add the tomato paste, mix it
-in and fry until raw tomato flavor is gone, about 2 minutes. Add 1/2 a cup white 
-wine, chicken stock, soy sauce, and dark brown sugar. Bring mixture to a boil, 
-then reduce heat to medium-low and simmer for 5 minutes. Turn the heat of and set 
-aside. If you aren't cooking the brisket until the next day, put the mixture in 
-an air tight container in the fridge.
+in and fry until raw tomato flavor is gone, about 2 minutes. Add 1/2 cup white 
+wine, chicken stock, soy sauce, dark brown sugar, and geletin. Bring mixture to 
+a boil, then reduce heat to medium-low and simmer for 5 minutes. Turn the heat 
+of and set aside. If you aren't cooking the brisket until the next day, put the 
+mixture in an air tight container in the fridge.
 
 ## Cooking the Brisket
 
