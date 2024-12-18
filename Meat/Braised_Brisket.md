@@ -30,7 +30,7 @@ For sauce:
 * 1/2 tsp dried rosemary leaves
 * 10 black peppercorns
 * 8 whole cloves
-* lime peel (about 1" by 2")
+* lime peel (taken off with a peeler, about 1" by 2")
 * 1/2 tsp paprika
 * 5 juniper berries (optional)
 * 1 tbsp tomato paste
