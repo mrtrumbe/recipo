@@ -6,13 +6,10 @@ This recipe is intended for the flat portion of a whole packer brisket. This
 is the brisket most often available at the supermarket, but make sure you don't 
 buy a whole packer brisket or just the tip portion of the brisket.
 
-You'll also need a cooking vessel that can go over direct heat (to sear the
-brisket), then hold the entire brisket and go into the oven (covered, for 
-braising). If you have a roasting pan that can go over direct heat, that will
-likely work. Just use tin foil over the top of the roasting pan to improvise
-a braising pan. You can even use two different pans, if necessary: just sear
-the brisket in one pan, then transfer everything to a braising pan when it
-comes time to move to the oven.
+You'll also need a sheet pan (with rims) and a cooking vessel big enough to hold
+the brisket that can be used for braising. You can buy large braising pans with
+a lid to seal in the liquids, but a roasting pan can also work. You'll just need 
+to cover the pan with foil and try to make a tight seal around the edge.
 
 ## Ingredients
 
@@ -77,7 +74,7 @@ cook the liquid down until the onions just start frying. Then turn the heat down
 to medium and immediately add the garlic cloves, bay leaves, thyme leaves, 
 rosemary leaves, black peppercorns, cloves, lime peel, paprika and juniper 
 berries. Stir and fry until fragrant, 1-2 minutes. Add the tomato paste, mix it
-in and fry until raw tomato flavor is gone, about 2 minutes. Add 1/2 cup white 
+in and fry until raw tomato flavor is gone, about 2 minutes. Add the white 
 wine, chicken stock, soy sauce, dark brown sugar, and geletin. Bring mixture to 
 a boil, then reduce heat to medium-low and simmer for 5 minutes. Turn the heat 
 of and set aside. If you aren't cooking the brisket until the next day, put the 
@@ -85,23 +82,39 @@ mixture in an air tight container in the fridge.
 
 ## Cooking the Brisket
 
-Preheat oven to 300˚F.
+The first step is browning the brisket. I prefer the broiler for this. Turn your
+broiler on high, put your rack as high as it will go in the oven and let it preheat.
+Put your brisket on a sheet pan with a rim and coat with a thin layer of neutral oil. 
+When your broiler is hot, put the brisket directly under the heat. You'll need to 
+watch carefully to ensure the meat doesn't burn and you will likely need to move the 
+brisket around to ensure even browning. Once the first side is browned, remove the 
+sheet pan, flip the brisket and repeat the process on the other side. When brown,
+remove the sheet pan, move the brisket to your braising pan, and add any liquid
+in the sheet pan to your braising liquid.
 
-Put your braising pan over high heat and wait for it to get scorching hot. Coat 
-the brisket in vegetable oil, then add the brisket, fat side down, to the pan. 
-Allow the brisket to sear, pushing down to ensure it is making contact with the 
-pan if necessary. When the fat side is a deep, dark brown, flip the brisket. 
-Again sear until a deep brown. Remove the brisket and set aside. Add the remaining 
-1/2 cup of white wine to the pan and deglaze the pan. Add the prepared braising
-liquid to the braising pan, mix everything well, and bring to a strong simmer.
-Turn off heat.
+(_You can also sear the brisket over direct heat on the stove top. Put a pan large
+enough to hold the brisket over high heat, get the pan scortching hot, then add
+your oiled brisket to the pan. Brown on both sides, then move the brisket to your 
+braising pan, deglaze the pan with a little water or white wine, and then add the 
+liquid from the pan to your braising liquid._)
 
-Add the brisket back to the pan (or move the brisket and liquid to a new pan), 
-cover the pan, then put the pan in the 300˚F oven. Let the brisket braise for
-about 40 minutes per pound of meat. You can also set the oven temperature a bit 
-higher and the brisket will be done faster. I've tried up to 325˚F with good 
-results. When a fork can slip into the meat without much force, remove the brisket 
-from the braising pan and wrap in 2 layers of foil. Let rest 30 minutes. 
+Preheat oven to 300˚F and put the rack in the center of the oven.
+
+Ensure your braising liquid is hot by bringing it to a simmer in a sauce pan on the 
+stove top. Pour the braising liquid over the brisket in your braising pan, cover the 
+pan (using foil if you don't have a cover), then put the pan in the oven. 
+
+Let the brisket braise for about 40 minutes per pound of meat. You can also set the 
+oven temperature a bit higher and the brisket will be done faster. I've tried up to 
+325˚F with good results. There are two ways to tell when the brisket is done:
+
+- When a thermometer inserted into the thickest part of the brisket reads 200-205˚F.
+  Ideal temperature is 203˚F.
+- When a fork can slip into the thickest part of the brisket without much force. This
+  method can be a bit finicky, so use a thermometer if you can.
+
+Remove the brisket from the braising pan and wrap in 2 layers of foil and one beach
+towel to trap the heat in. Let rest 30 minutes. 
 
 While the brisket is resting, put the remaining liquids and solids through a fine 
 metal sieve, pushing through as much onion and garlic as possible. Put the sieved 
