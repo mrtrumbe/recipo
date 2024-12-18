@@ -33,7 +33,7 @@ For sauce:
 * lime peel (about 1" by 2")
 * 1/2 tsp paprika
 * 5 juniper berries (optional)
-* 2 tbsp tomato paste
+* 1 tbsp tomato paste
 * 1 cup white wine
 * 1 cup chicken stock or water
 * 1 tbsp soy sauce
